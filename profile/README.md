@@ -8,5 +8,5 @@
 - `Designer` : 이소희, 최수빈
 - `Developer`
   - [FrontEnd](https://github.com/orgs/diaFEtes/teams/diafetes) : 정희수([@heesoooo](https://github.com/heeeesoo)), 김선영([@seondal](https://github.com/seondal))
-  - [BackEnd](https://github.com/orgs/diaFEtes/teams/diabetes) : 배수아, 이지안 
+  - [BackEnd](https://github.com/orgs/diaFEtes/teams/diabetes) : 배수아([@bsa0322](https://github.com/bsa0322)), 이지안([@jianny-lee](https://github.com/jianny-lee)) 
 
