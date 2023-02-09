@@ -20,4 +20,8 @@
 
 <br /><br />
 
+<div align="right">
+
 [🚀 EatDa 앱 설치하러 가기 🚀](https://suave-lilac-075.notion.site/Eatda-App-8504c23f293f488db826ff340ba978de)
+
+</div>
