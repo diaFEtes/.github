@@ -9,7 +9,6 @@
 당뇨인의 체질과 선호에 맞는 맞춤형 식단 추천부터 가족과 함께 선호를 공유하는 기능까지! <br/>
 잇다는 당뇨인의 건강한 식생활과 함께하겠습니다.
 
-### Team
 | ✨ Plan | 🎨 Design | 🖥 FrontEnd | ⌨️ BackEnd |
 |:-:|:-:|:-:|:-:|
 | 정경윤 | 이소희 | [seondal](https://github.com/seondal) | [heesoooo](https://github.com/heeeesoo) |
