@@ -1,6 +1,6 @@
-<img align="right" width="250px" src="https://user-images.githubusercontent.com/75469131/217805633-7693b746-5679-42df-a74f-9a98a938cc30.png" />
-
 # Eat Da (잇다)
+
+<img align="right" width="250px" src="https://user-images.githubusercontent.com/75469131/217806122-274698ae-aee8-4382-a3b4-e41a557fcc20.png" />
 
 **따뜻한 식탁에 건강 한 스푼, EatDa (잇다) 🥗**
 
@@ -18,4 +18,3 @@
 |:-:|:-:|:-:|:-:|
 | 정경윤 | 이소희 | [seondal](https://github.com/seondal) | [heesoooo](https://github.com/heeeesoo) |
 | 서의현 | 최수빈 | [bsa0322](https://github.com/bsa0322) | [jianny-lee](https://github.com/jianny-lee) |
-
