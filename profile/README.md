@@ -1,12 +1,22 @@
-# Eat-Da
+<img align="right" width="120px" src="https://user-images.githubusercontent.com/75469131/217804725-2bca83e5-8c4b-4c45-ad23-905050b496ee.png" />
 
-당뇨병 환자를 위한 맞춤형 체질 분석을 통한 건강 관리 플랫폼
+# Eat Da (잇다)
+
+**따뜻한 식탁에 건강 한 스푼, EatDa (잇다) 🥗**
+
+> 당뇨 식단 관리, <br/>
+혼자 하기 버겁지 않았나요? <br/>
+잇다는 가족들의 관심과 조력의 힘을 믿습니다. <br/> <br/>
+잇다는 가족과 함께하는 당뇨병 식단관리 플랫폼입니다. <br/>
+당뇨인의 체질과 선호에 맞는 맞춤형 식단 추천부터 가족과 함께 선호를 공유하는 기능까지! <br/>
+잇다는 당뇨인의 건강한 식생활과 함께하겠습니다.
+
+
 
 <br>
 
-- `Planner` : 정경윤, 서의현
-- `Designer` : 이소희, 최수빈
-- `Developer`
-  - [FrontEnd](https://github.com/orgs/eatda/teams/eatda-fe) : 정희수([@heesoooo](https://github.com/heeeesoo)), 김선영([@seondal](https://github.com/seondal))
-  - [BackEnd](https://github.com/orgs/eatda/teams/eatda-be) : 배수아([@bsa0322](https://github.com/bsa0322)), 이지안([@jianny-lee](https://github.com/jianny-lee)) 
+| ✨ Plan | 🎨 Design | 🖥 FrontEnd | ⌨️ BackEnd |
+|:-:|:-:|:-:|:-:|
+| 정경윤 | 이소희 | [seondal](https://github.com/seondal) | [heesoooo](https://github.com/heeeesoo) |
+| 서의현 | 최수빈 | [bsa0322](https://github.com/bsa0322) | [jianny-lee](https://github.com/jianny-lee) |
 
