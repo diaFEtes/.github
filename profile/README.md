@@ -1,4 +1,4 @@
-<img align="right" width="120px" src="https://user-images.githubusercontent.com/75469131/217804725-2bca83e5-8c4b-4c45-ad23-905050b496ee.png" />
+<img align="right" width="250px" src="https://user-images.githubusercontent.com/75469131/217805633-7693b746-5679-42df-a74f-9a98a938cc30.png" />
 
 # Eat Da (잇다)
 
@@ -11,10 +11,9 @@
 당뇨인의 체질과 선호에 맞는 맞춤형 식단 추천부터 가족과 함께 선호를 공유하는 기능까지! <br/>
 잇다는 당뇨인의 건강한 식생활과 함께하겠습니다.
 
+<br/>
 
-
-<br>
-
+### Team
 | ✨ Plan | 🎨 Design | 🖥 FrontEnd | ⌨️ BackEnd |
 |:-:|:-:|:-:|:-:|
 | 정경윤 | 이소희 | [seondal](https://github.com/seondal) | [heesoooo](https://github.com/heeeesoo) |
