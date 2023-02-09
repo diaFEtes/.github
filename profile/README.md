@@ -1,8 +1,10 @@
 # Eat Da (잇다)
 
+<img align="right" width="250px" src="https://user-images.githubusercontent.com/75469131/217806122-274698ae-aee8-4382-a3b4-e41a557fcc20.png" />
+
 *따뜻한 식탁에 건강 한 스푼, EatDa (잇다) 🥗*
 
-![썸네일](https://user-images.githubusercontent.com/75469131/217809437-811bc5a0-b811-437e-85d1-3f228bff73fc.png)
+<br/>
 
 > 당뇨 식단 관리, <br/>
 혼자 하기 버겁지 않았나요? <br/>
